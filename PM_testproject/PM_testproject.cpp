@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello VisualStdio Git!\n";
+    
+    std::cout << "リモートレポジトリでこの行を追加\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
